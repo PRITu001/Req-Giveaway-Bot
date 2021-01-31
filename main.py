@@ -24,5 +24,5 @@ if __name__=="__main__":
 
 
 
-bot.run("token")
+bot.run("Your Bot Token Goes Here")
 #token
