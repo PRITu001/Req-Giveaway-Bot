@@ -12,3 +12,12 @@
 - To Donate Us,
 > Just Boost [This Server](https://dsc.gg/skyrim),
 > And Feel Free To Give Star 🌟
+
+## 📝 Discord Server
+
+<a href="https://discord.gg/cmHm2bpfMR"><img src="https://invidget.switchblade.xyz/cmHm2bpfMR"/></a>
+<br><br>
+</div>
+<a href="https://discord.gg/2kWssuKhyY"><img src="https://invidget.switchblade.xyz/2kWssuKhyY"/></a>
+<br><br>
+</div>
